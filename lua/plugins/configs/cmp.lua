@@ -8,7 +8,6 @@
 --
 -- File: plugins/configs/cmp.lua
 -- Description: cmp configuration
--- Author: Kien Nguyen-Tuan <kiennt2609@gmail.com>
 local cmp = require "cmp"
 
 require("nvim-autopairs").setup({

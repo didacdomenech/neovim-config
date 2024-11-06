@@ -8,7 +8,6 @@
 --
 -- File: plugins/configs/treesitter.lua
 -- Description: nvim-treesitter configuration
--- Author: Kien Nguyen-Tuan <kiennt2609@gmail.com>
 
 -- Load custom configurations
 local exist, custom = pcall(require, "custom")

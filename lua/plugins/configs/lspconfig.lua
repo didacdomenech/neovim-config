@@ -8,7 +8,6 @@
 --
 -- File: plugins/configs/lspconfig.lua
 -- Description: LSP setup and config
--- Author: Kien Nguyen-Tuan <kiennt2609@gmail.com>
 local merge_tables = require("utils").merge_tables
 
 local exist, custom = pcall(require, "custom")
