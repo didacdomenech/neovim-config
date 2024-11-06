@@ -1,35 +1,10 @@
-<div align="center">
-  <h1>Neovim configuration</h1>
-  <blockquote align="center">
-    A minimal Neovim configuration written in lua
-  </blockquote>
-  <p>
-        <a href="https://github.com/ntk148v/neovim-config/blob/master/LICENSE">
-      <img
-        alt="License"
-        src="https://img.shields.io/github/license/ntk148v/neovim-config?style=for-the-badge"
-      />
-    </a>
-    <a href="https://github.com/ntk148v/neovim-config/stargazers">
-      <img
-        alt="Stars"
-        src="https://img.shields.io/github/stars/ntk148v/neovim-config?style=for-the-badge"
-      />
-    </a>
-    <img
-      alt="Neovim version"
-      src="https://img.shields.io/badge/Neovim-0.8+-57A143?style=for-the-badge&logo=neovim"
-    />
-    <a href="https://github.com/ntk148v/neovim-config/releases/latest">
-        <img
-          alt="Latest release"
-          src="https://img.shields.io/github/v/release/ntk148v/neovim-config?style=for-the-badge" />
-    </a>
-  </p>
-  <br />
-</div>
+# Neovim configuration
 
-Table of contents
+> [!IMPORTANT]
+> This configuration is meant to simplify the installation and usage of modern neovim setups.
+
+
+**Table of contents:**
 
 - [1. Introduction](#1-introduction)
 - [2. Installation](#2-installation)
