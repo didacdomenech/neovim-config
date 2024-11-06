@@ -82,12 +82,12 @@ local builtin_plugins = {
     },
     -- colorscheme
     {
-        -- Rose-pine - Soho vibes for Neovim
-        "rose-pine/neovim",
-        name = "rose-pine",
-        opts = {
-            dark_variant = "main"
-        }
+        -- Catppuccin 
+        "catppuccin/nvim",
+        name = "catppuccin",
+        --opts = {
+        --    dark_variant = "main"
+        --}
     },
     -- LSP stuffs
     -- Portable package manager for Neovim that runs everywhere Neovim runs.

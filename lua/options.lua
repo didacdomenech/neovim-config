@@ -122,5 +122,5 @@ for _, plugin in pairs(disabled_built_ins) do
 end
 
 -- Colorscheme
--- By default, use rose-pine
-cmd.colorscheme("rose-pine")
+-- By default, use catppuccin
+cmd.colorscheme("catppuccin")
